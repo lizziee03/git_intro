@@ -1,1 +1,2 @@
-"Elizabeth McClaran" 
+Elizabeth McClaran
+mcclarae@oregonstate.edu
